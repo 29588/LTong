@@ -18,7 +18,7 @@
 * **每个月自动领取5张B币券和大会员权益**
 
 ```sh
-node index.js bilibili --cookies "b6*********4a581;"
+node index.js bilibili --cookies "b6*********4a58;"
 ```
 
 ### docker部署
